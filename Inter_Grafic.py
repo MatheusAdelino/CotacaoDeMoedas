@@ -42,4 +42,3 @@ texto_resposta.grid(column=1, row=10, padx=10, pady=10)
 
 
 janela.mainloop()
-janela.mainloop()
